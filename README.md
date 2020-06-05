@@ -2,6 +2,9 @@
 Simple Tensorflow implementation of ["Dense-U-net: Dense encoder-decoder network for holographic imaging of 3D particle field" ]
 
 ## Usage
+### Layer-oriented-algorithm-and-ground-true
+* Used to generate data sets
+* Change the corresponding storage address to your own data storage address
 ### datasets
 * The datasets is generated through Layer-oriented-algorithm-and-ground-true / creat_train_datasets.m.(use MATLAB)
 * Layer-oriented-algorithm-and-ground-true/datasets used to store training datasets and test datasets
