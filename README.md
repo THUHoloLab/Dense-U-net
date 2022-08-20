@@ -1,6 +1,9 @@
 ﻿# Dense-U-net-Tensorflow
 Simple Tensorflow implementation of ["Dense-U-net: Dense encoder-decoder network for holographic imaging of 3D particle field" ]
 
+Yufeng Wu, Jiachen Wu, Shangzhong Jin, Liangcai Cao, and Guofan Jin, "Dense-U-net: Dense encoder–decoder network for holographic imaging of 3D particle fields," Optics Communications 493, 126970 (2021).
+
+
 ## Usage
 ### Layer-oriented-algorithm-and-ground-true
 * Used to generate data sets
